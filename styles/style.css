@@ -25,4 +25,9 @@ nav li:first-child {
 }
 header {
   display: flex;
+  align-items: ;
+}
+a.logo.img {
+  width: 148px;
+  height: 105px;
 }
