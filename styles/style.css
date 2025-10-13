@@ -13,3 +13,13 @@ header, main, footer {
 nav a {
   color: black;
 }
+nav ul {
+  display: flex;
+  gap: 30px;
+}
+nav li:first-child {
+  list-style-type: none;
+}
+.active {
+  text-decoration: none;
+}
