@@ -1,1 +1,12 @@
-/* место для вашего кода */
+* {
+  font-family: Raleway;
+  font-size: 20px;
+  font-weight: 400;
+}
+header, main, footer {
+    width: 1100px;
+    margin: 0 auto;
+}
+.cover {
+    background-color: ;
+}
