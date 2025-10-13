@@ -8,5 +8,8 @@ header, main, footer {
     margin: 0 auto;
 }
 .cover {
-    background-color: ;
+    background-image: cover.jpg;
+}
+nav a {
+  color: black;
 }
